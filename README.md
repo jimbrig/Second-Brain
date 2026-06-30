@@ -5,10 +5,11 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Name Person           | Second Brain                                                                              | Twitter                                 |
 | --------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------- |
 | Aaron Parecki         | https://aaronparecki.com/                                                                 | https://twitter.com/aaronpk             |
+| Aaron Pham            | https://aarnphm.xyz/                                                                      | https://twitter.com/aarnphm             |
 | Aengus McMillin       | https://aengusmcmillin.com/brain                                                          | http://twitter.com/aengusmcmillin       |
 | Alan Pestronk         | https://neuromuscular.wustl.edu/alfindex.htm                                              |                                         |
 | Alex Bilson           | https://alexbilson.dev/                                                                   |                                         |
-| Alma Nocturna         | https://gvpv12.github.io/                                              |                                         |
+| Alma Nocturna         | https://gvpv12.github.io/                                                                 |                                         |
 | Anand Sharma          | http://aprilzero.com/                                                                     | https://twitter.com/aprilzero           |
 | Andres Estrella       | https://andresestrella.vercel.app/                                                        | https://twitter.com/andrestrellaa       |
 | Andrew Tang           | https://tangdrew.com/notes                                                                | https://twitter.com/tangdrew/media      |
@@ -24,7 +25,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Arne Bahlo            | https://notes.arne.me                                                                     | https://twitter.com/arnebahlo           |
 | Azer Koçulu           | https://github.com/azer/notebook                                                          |                                         |
 | Azlen Elza            | https://notes.azlen.me/g3tibyfv/                                                          | https://twitter.com/azlenelza           |
-| Ben Robertson         | https://ben.robertson.is/notes                                                             | https://twitter.com/benrobertsonio      |
+| Ben Robertson         | https://ben.robertson.is/notes                                                            | https://twitter.com/benrobertsonio      |
 | Benjamin Lannon       | https://lannonbr.com/garden                                                               | https://twitter.com/lannonbr            |
 | Bennett Hardwick      | https://bennetthardwick.com/wiki/                                                         |                                         |
 | Bhavani Ravi          | https://www.bhavaniravi.com/                                                              | https://x.com/bhavaniravi_              |
